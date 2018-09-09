@@ -1,3 +1,8 @@
 # Glozzom
 
 This is a MultiPage Theme named Glozzom made using BootStrap 4 which has the Contact Us Page and the Testimonials and also used some third party plugins. The website is completely responsive and looks Beautiful
+
+<h3>Install dependencies</h3>
+<blockquote>$npm install</blockquote>
+<h3>Compile Sass and run dev server</h3>
+<blockquote>$npm start</blockquote>
